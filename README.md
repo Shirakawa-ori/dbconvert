@@ -1,1 +1,3 @@
 # dbconvert
+
+Oracle到MySQL的数据转换中间件，需要先在MySQL中创建好表，然后以命令行参数或tablefile文件的方式指定需要转换的表，表之间用逗号分隔，之后执行就行可以了。
